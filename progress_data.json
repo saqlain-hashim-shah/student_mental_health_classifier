@@ -1,0 +1,13 @@
+{
+  "saqlain": [
+    {
+      "date": "2026-06-04",
+      "day": "Thursday",
+      "mood": 2,
+      "sleep": 2.0,
+      "anxiety": 1,
+      "sad": 1,
+      "risk_level": "High Risk"
+    }
+  ]
+}
